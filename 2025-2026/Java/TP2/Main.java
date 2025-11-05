@@ -1,5 +1,5 @@
 package tp2;
-
+/* authors William WAN et Hsiao-Wen-Paul LO*/
 public class Main {
 
     public static void main(String[] args) {
