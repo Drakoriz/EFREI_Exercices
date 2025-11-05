@@ -27,6 +27,12 @@ public class Main {
 	e.ajouterLivre(l2);
 	e.afficherLivres();
 	//Partie2
-        
+
+         System.out.println("\n BibliothequeTest");
+         BibliothequeTest.main(new String[]{});
+         System.out.println("\n BibliothequeV2Test");
+         BibliothequeV2Test.main(new String[]{});
+         System.out.println("\n GroupeTest");
+         GroupeTest.main(new String[]{});
     }
 }
